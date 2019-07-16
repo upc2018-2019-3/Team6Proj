@@ -1,0 +1,4 @@
+编译语言：Java8；
+编译平台：eclipse 4.9.0；
+数据库：MySQL（XAMPP）；
+数据库管理工具：navicat for MySQL；
